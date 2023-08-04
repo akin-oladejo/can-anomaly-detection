@@ -4,7 +4,7 @@ The Controller Area Network (CAN) is currently the most widely-used in-vehicle n
 
 The methods are:
 - Frequency-based detection
-- Tree-based detection (i.e Isolation Forest)
+- Density-based anomaly detection (i.e Local Outlier Factor)
 - Anomaly detection using the latent representation of normal data (i.e. autoencoder)
 
 ## The Dataset
